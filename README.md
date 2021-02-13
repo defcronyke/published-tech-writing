@@ -1,6 +1,6 @@
 ﻿# Published Tech Writing
 
-Technical writing by Jeremy Carter which has been published somewhere:
+Technical writing by Jeremy Carter which has been published somewhere.
 
 * [https://linuxstans.com](https://linuxstans.com)
 
