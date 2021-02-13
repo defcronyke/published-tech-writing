@@ -1,4 +1,4 @@
-﻿# Published Tech Writing
+﻿# [Published Tech Writing](https://defcronyke.github.io/published-tech-writing/)
 
 Technical writing by Jeremy Carter which has been published somewhere.
 
